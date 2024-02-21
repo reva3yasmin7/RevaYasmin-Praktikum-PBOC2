@@ -1,3 +1,10 @@
+/**
+ * File      : Titik.java		21-02-2024
+ * Nama penulis   : Reva Yasmin Naufalia
+ * NIM               : 24060122130075
+ * Deskripsi : Kelas yang berisi main method dari Titik
+ * 
+ */
 class Titik
 {
 	double absis, ordinat;
