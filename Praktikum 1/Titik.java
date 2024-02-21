@@ -19,5 +19,7 @@ class Titik
 	{	return ordinat;	}
 	static double getCounterTitik()
 	{	return counterTitik;}
-
+	createTitik(getAbsis,getOrdinat)
+	{	Titik.setAbsis=Titik.getAbsis
+		Titik.setordinat=Titik.getordinat}
 }
