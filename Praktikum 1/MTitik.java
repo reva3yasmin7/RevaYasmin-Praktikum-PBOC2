@@ -1,3 +1,9 @@
+//Nama File: MTitik.java\
+//Deskripsi file: Menjalankan fungsi yang dibuat pada Titik.java dengan beberapa variabel yang memiliki class Titik
+//Nama: Reva Yasmin Naufalia
+//NIM: 24060122130075
+//Lab Praktikum: Kelas C2
+//Tanggal Praktikum: 20 februari 2024
 class MTitik
 {
 	public static void main(String[] args)
