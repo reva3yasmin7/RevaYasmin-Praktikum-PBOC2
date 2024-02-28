@@ -1,3 +1,8 @@
+//Nama File: Titik.java\
+//Deskripsi file: membuat fungsi-fungsi yang digunakan untuk membuat variabel dengan class Titik
+//Nama: Reva Yasmin Naufalia
+//NIM: 24060122130075
+//Lab Praktikum: Kelas C2
 class Titik
 {
 	double absis, ordinat;
@@ -19,7 +24,5 @@ class Titik
 	{	return ordinat;	}
 	static double getCounterTitik()
 	{	return counterTitik;}
-	createTitik(getAbsis,getOrdinat)
-	{	Titik.setAbsis=Titik.getAbsis
-		Titik.setordinat=Titik.getordinat}
+	
 }
