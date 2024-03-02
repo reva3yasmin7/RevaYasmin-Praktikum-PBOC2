@@ -55,6 +55,7 @@ public class Titik
     }
     public void getRefleksiY(Titik t){
         refleksiY(t);
+        System.out.println("Posisi dari titik stlh refleksi = (" +t.getAbsis() + ","+ t.getOrdinat()+")");
     }
 
     //}
