@@ -5,6 +5,8 @@ import org.bangundatar.*;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class MSegitiga {
     public static void main(String[] args) {
-        Seg
+        Segitiga segitiga=new Segitiga(10,6,3);
+        segitiga.printInfo();
+        System.out.println("Luas Segitiga : "+segitiga.hitungLuas());
     }
 }
